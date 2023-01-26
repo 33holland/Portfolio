@@ -1,10 +1,15 @@
 :root {
-    --primary-color: #6c63ff;
-    --secondary-color: #f5f2fe;
+    --primary-color: #DAB49D;
+    --secondary-color: #DAB49D;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+.bg-brown {
+    background-color: #DAB49D;
+}
+
 body {
+    color: #DAB49D;
     margin: 60px auto;
     max-width: 800px;
 }
