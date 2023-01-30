@@ -109,6 +109,11 @@ p {
     text-decoration: underline;
 }
 
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
 @media (max-width: 576px) {
     h1 {
         font-size: 48px;
