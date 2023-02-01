@@ -107,6 +107,22 @@ p {
 
 .email-link:hover {
     text-decoration: underline;
+    color: var(--branding-color)
+}
+
+.social-links a {
+    margin: 20px;
+    color: #663b2e;
+    background: var(--secondary-color);
+    padding: 10px 14px;
+    font-size: 18px;
+    border-radius: 50%;
+
+}
+
+.social-links a:hover {
+    color: #DAB49D;
+    background-color: #663b2e;
 }
 
 .img-responsive {
